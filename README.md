@@ -1,2 +1,2 @@
 # GTKEO
-Code was created by Madi Glaum and ChatGPT
+Madi Glaum and ChatGPT created this repository
